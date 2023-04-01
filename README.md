@@ -19,8 +19,6 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> -->
 </div>
   
 
@@ -32,3 +30,9 @@
   <img src="https://img.shields.io/badge/JetBrains-000000.svg?&amp;style=for-the-badge&amp;logo=JetBrains&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000.svg?&amp;style=for-the-badge&amp;logo=Notion&amp;logoColor=white">
 </div>
+
+<br><br><br>
+
+[![uwriym's GitHub stats](https://github-readme-stats.vercel.app/api?username=uwriym&count_private=true&show_icons=true&bg_color=DEG,141E30,243B55&border_radius=10&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=bfff00)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uwriym&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
