@@ -36,3 +36,6 @@
 [![uwriym's GitHub stats](https://github-readme-stats.vercel.app/api?username=uwriym&count_private=true&show_icons=true&bg_color=DEG,141E30,243B55&border_radius=10&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=bfff00)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uwriym&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=uwriym)](https://solved.ac/uwriym) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=uwriym)](https://solved.ac/uwriym/)
