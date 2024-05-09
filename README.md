@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=ffffff&fontColor=333436&text=uwriym%20🚀&fontSize=50&fontAlign=20&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&height=165&section=header&color=151515&fontColor=dadada&text=uwriym%20🚀&fontSize=40&fontAlign=17&fontAlignY=32)
 
 ![uwriym's GitHub stats](https://github-readme-stats.vercel.app/api?username=uwriym&theme=graywhite&show_icons=true)
 
@@ -46,18 +46,12 @@
 
 ### About Me
 
-<span>
-  <a href="https://www.instagram.com/eoorim/">
+<a href="https://www.instagram.com/eoorim/">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white" alt="instagram"/>
-  </a>
-</span>
-<span>
-  <a href="mailto:eoorim@icloud.com">
+</a>
+<a href="mailto:eoorim@icloud.com">
     <img src="https://img.shields.io/badge/email-47a3f5?style=plastic&logo=GMail&logoColor=white" alt="email"/>
-  </a>
-</span>
-<span>
-  <a href="https://uwriym.github.io/">
+</a>
+<a href="https://uwriym.github.io/">
     <img src="https://img.shields.io/badge/blog-131418?style=plastic&logo=Github&logoColor=white" alt="github blog"/>
-  </a>
-</span>
+</a>
