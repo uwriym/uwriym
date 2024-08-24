@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=165&section=header&color=151515&fontColor=dadada&text=uwriym%20🚀&fontSize=40&fontAlign=17&fontAlignY=33)
 
+<!--
 <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=uwriym&title_color=ffffff&text_color=ffffff&icon_color=CC342D&show_icons=true&bg_color=151515&hide_rank=true&hide=prs,issues,contribs&hide_border=true" alt="github stats">
 </div>
+-->
 
 ### Skill Set
 
