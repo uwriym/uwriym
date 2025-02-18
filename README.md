@@ -1,26 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=165&section=header&color=151515&fontColor=dadada&text=uwriym%20🚀&fontSize=40&fontAlign=17&fontAlignY=33)
-
-<!--
-<div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=uwriym&title_color=ffffff&text_color=ffffff&icon_color=CC342D&show_icons=true&bg_color=151515&hide_rank=true&hide=prs,issues,contribs&hide_border=true" alt="github stats">
-</div>
--->
-
 ### Skill Set
 
 <div>
     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white">
-    <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=for-the-badge&logo=Ruby on Rails&logoColor=white">
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/Flask-5aa5bb?style=for-the-badge&logo=Flask&logoColor=white">
-    <br>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/Ruby on Rails-CC0000?style=for-the-badge&logo=Ruby on Rails&logoColor=white">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
+    <img src="https://img.shields.io/badge/Flask-5aa5bb?style=for-the-badge&logo=Flask&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
 
 [//]: # (  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=JAVA&logoColor=white">)
 
